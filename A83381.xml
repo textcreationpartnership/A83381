@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Lords and Commons of England, now assembled in Parliament: presented to the Kings most excellent Majestie with the remonstrance. Concerning the present state of this kingdome.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83381</idno><idno type="EEBO-CITATION">99859503</idno>
+  <idno type="VID">111589</idno>
+  <idno type="EEBO-PROQUEST">2240883977</idno>
+  
+            <idno type="STC">Wing E2180</idno>
+            <idno type="STC">Thomason E181_10</idno>
+            <idno type="STC">ESTC R13584</idno>
+            <idno type="PROQUEST">99859503</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859503e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111589)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Lords and Commons of England, now assembled in Parliament: presented to the Kings most excellent Majestie with the remonstrance. Concerning the present state of this kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Lacks an official order to print.</note>
+                  <note>Printers' device on t.p. not found in McK.: lozenge with pellican and young, motto in rim, "Aspicis vt vivnnt [sic] pellicani sangvine pvlli sic christo effuso sangvine vivis homo".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111589:1"/>
+            <p> THE PETITION OF THE Lords and Commons of ENGLAND, now Assembled in PARLIAMENT: Presented to the KINGS most Excellent Majestie with the <hi>Remonstrance.</hi>
+            </p>
+            <p>Concerning the present state of this Kingdome.</p>
+            <figure>
+               <p>ASPICIS VT VIVNNT PELLICANI SANGVINE PVLLI SIC CHRISTO EFFVSO SANGVINE VIVIS HOMO </p>
+               <figDesc>seal of pelican with young</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas.</hi> 1641.</p>
+            <pb facs="tcp:111589:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:111589:2"/>
+            <head>The PETITION of the Lords and Commons of <hi>England</hi> presented to his Majestie with the <hi>Remonstrance.</hi>
+            </head>
+            <opener>
+               <salute>Most gracious Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most humble and faith<g ref="char:EOLhyphen"/>full Subjects in this present Parlia<g ref="char:EOLhyphen"/>ment assembled, doe with much thankefulnesse and joy, acknowledge the great mercy and favour of God in giving your Majesty a safe and peace<g ref="char:EOLhyphen"/>able returne out of <hi>Scotland</hi> into this your Kingdome of <hi>England,</hi> where the pressing dangers and distempers of the State have caused us with much earnestnesse to desire the comfort of your gracious presence, and like<g ref="char:EOLhyphen"/>wise the vnity and Justice of your Royall authority to give more life and power to the dutifull and Loyall Councels and endeavours of your Parliament, for the prevention of that eminent ruine &amp; destruction which in your Kingdomes of <hi>England</hi> and <hi>Scotland</hi> are threat<g ref="char:EOLhyphen"/>ned.</p>
+            <p>The duty which we owe to your Majesty and our Country cannot but make us very sensible and appre<g ref="char:EOLhyphen"/>hensive that the multiplicity, sharpnesse, and maligni<g ref="char:EOLhyphen"/>ty of those evils vnder which we have many yeares suf<g ref="char:EOLhyphen"/>fered are fomented and cherished by a corrupt and ill affected party who amongst other their mischievous
+<gap reason="missing" extent="2+ pages">
+                  <desc>〈2+ pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:111589:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:111589:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:111589:4"/> for the alteration of Religion and government have sought by many false scandals &amp; imputations cunning<g ref="char:EOLhyphen"/>ly insinuated and disposed amongst the people to ble<g ref="char:EOLhyphen"/>mish and disgrace our Proceedings in this Parliament, and to get themselves a party and faction amongst your Subjects <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the better strengthning of thēselves in their wicked courses, and hindering those procee<g ref="char:EOLhyphen"/>dings and remedies which might by the wisedome of your Majesty and Councell of your Parliament be op<g ref="char:EOLhyphen"/>posed against them.</p>
+            <p>For preventing whereof and the better information of your Majesty, your Peeres, and all other your Loy<g ref="char:EOLhyphen"/>all Subjects, have beene necessitated to make a De<g ref="char:EOLhyphen"/>claration of the State of the Kingdome both before and since the Assembly of this Parliament vnto this time which we doe humbly presenr to your Majesty without the least intention to lay any blemish upon your Majesties person, but onely to represent how your Royall authority and trust have beene abused to the great prejudice and danger of your Majesty and of all your goods Subjects.</p>
+            <p>And because we have reason to beleeve that those malignant parties whose proceedings evidently ap<g ref="char:EOLhyphen"/>peare to be mainly for the advantage and encrease of Popery, and is composed, set up, and acted by the sub<g ref="char:EOLhyphen"/>tile practizes of the Iesuites and other Engineers and Factors for <hi>Rome</hi> and to the great danger of this King<g ref="char:EOLhyphen"/>dome and most grievous affliction of your Loyall Subjects have so farre prevailed as to corrupt divers of Bishops and others in prime places of the Church, and also to bring divers of those Jnstruments to be of your Privy Councell and other imployments of trust and
+<pb facs="tcp:111589:4"/> nearenesse about your Majesty, the Prince and the rest of your Royall children.</p>
+            <p>And by this meanes hath had such an operation in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Councell and most importants affaires and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eedings of your government, that a most dangerous <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivision and chargeable preparation for warre betwixt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> the conti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uance and encrease of jealousies betwixt your Maje<g ref="char:EOLhyphen"/>sty and your most obedient Subjects, the violent di<g ref="char:EOLhyphen"/>straction and interruption of this Parliament, the Re<g ref="char:EOLhyphen"/>bellion of <hi>Ireland,</hi> insurrection of the Papists in this Kingdome, and bloody Massacre of your people have beene not onely endeavoured and attempted, but in a great measure compassed and affected.</p>
+            <p>For preventing the finall accomplishment, whereof your poore Subiects enforced to ingage their persons and estates to the maintenance of a verie expensiue and dangerous Warre, notwithstanding they haue al<g ref="char:EOLhyphen"/>ready since the beginning of this Parliament, undergone the charge of 150000 l. sterling or there abouts, for the necessary support and supply of your Maiesty, in this present and perilous designe, and because all our most faithfull indeavors and engagements will be inefectuall for the peace, safety, and preservation, of your Maiesty, &amp; your People, if some present, reall, and efectuall course be not taken for suppressing this wic<g ref="char:EOLhyphen"/>ked and malignant partie:</p>
+            <p>we your most humble obedient Subiects doe in all faithfullnesse and humility beseech your Maiesty.</p>
+            <p n="1">1 <hi>That you will be Gratiously pleased to concurre with the humble desires of your People, in a parliamentary way for the preserving the peace and safety of tbis kingdome,</hi>
+               <pb facs="tcp:111589:5"/>
+               <hi>from the malicious designes of the Popish party.</hi>
+            </p>
+            <p>
+               <hi>For depriving the Bishops of their votes in Parlia<g ref="char:EOLhyphen"/>ment, and abridging their immoderate power vsurped over the Clergy, and other your good Subjects, which they haue most pernitiously abused, to the hazard of Religion, and great prejudice and oppression of the Lawes of the King<g ref="char:EOLhyphen"/>dome, and just liberties of your People.</hi>
+            </p>
+            <p>
+               <hi>For the taking away of all such oppressions in Religion, Church government, and Discipline as have beene brought in and fomented by them.</hi>
+            </p>
+            <p>
+               <hi>For the uniting all such your loyall Subjects together as ioyne in the same fundamentall truths against the Pa<g ref="char:EOLhyphen"/>pists, by removing some oppressions and unnecessary Cere<g ref="char:EOLhyphen"/>monies, by which divers weake consciences haue beene scru<g ref="char:EOLhyphen"/>pled and seeme to be divided from the rest; for the due execution of those good Lawes which have bin made for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccuring the libertie of your Subjects.</hi>
+            </p>
+            <p n="2">2 <hi>That your Maiesty will likewise be pleased, to remove from your Councell, all such as persist to favour &amp; promote any of these pressures and corruptions wherewith your peo<g ref="char:EOLhyphen"/>ple haue bin grieved, and that for the future your Ma<g ref="char:EOLhyphen"/>iesty will vouchsafe to imploy such persons in your great and publique affayres, and to take such to be neere you in places of trust, as your Parliament may haue cause to con<g ref="char:EOLhyphen"/>fide in, and that in your Princely goodnes to your people you will reject and refuse all mediation and solicitation to the contrary, how powerfull and neare-soever.</hi>
+            </p>
+            <p n="3">3 <hi>That you will be pleased to forbeare and alienate any of the fo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eited escheated Land<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Ireland which shall ac<g ref="char:EOLhyphen"/>crew to your Crown by reason of this rebellion, that out of</hi>
+               <pb facs="tcp:111589:5"/>
+               <hi>them your Crown may may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the better supported, and some satisfaction made to your Subjects of this Kingdome, for the great expence they a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e like to undergoe in this Warre.</hi>
+            </p>
+            <p>Which humble desires of ours being graciously fulfilled by your Maiesty, wee will by the blessing and favour of God most cheerefully undergoe the hazard and expences of this war, &amp; imploy our selves to such other courses, and Councels, as may support your Roy<g ref="char:EOLhyphen"/>all estate with Honour and Plenty at home, and with Power and reputation abroad, and by our loyall affections, obedience, and service, lay a sure foundation of the greatnesse and prosperity of your Maiesty, and your Royall posterity in future times.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
